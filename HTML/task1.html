@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="" style="border: 4px solid blue; padding: 10px;">
+    <h1>Reservation Requset</h1>
+    <fieldset>
+        <legend style="color: blue;">General Information</legend>
+        <table>
+            <tr>
+                <td>
+                    <label for="">Arrival date: </label>
+                </td>
+            
+                <td>
+                    <input type="text" >
+                </td>
+                <td>
+                    <span style="color: red;">Arrival Date is invalids</span>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label for="">Nights: </label>
+                </td>
+                <td>
+                    <input type="number">
+                </td>
+                <td>
+                    <span style="color: red;">Nigths must be a number</span>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for=""> Adults:</label>
+                </td>
+
+                <td>
+                    <select>
+                        <option value="0">0</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+
+                    </select>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <label for="">Children:</label>
+                </td>
+                <td>
+                    <select>
+                        <option value="0">0</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+
+                    </select>
+                </td>
+            </tr>
+        </table>
+    </fieldset>
+
+    <fieldset>
+        <legend style="color: blue;">Preferences</legend>
+        <table>
+
+        <tr>
+            <td>
+                <label for="Room">Room Type:</label>
+            </td>
+            <td>
+                <input type="radio" name="Room" id="Room"> Standard
+                <input type="radio" name="Room" id="Room"> Business
+                <input type="radio" name="Room" id="Room"> Suite
+            </td>
+
+        </tr>
+
+        <tr>
+            <td>
+                <label for="Bed">Bed Type: </label>
+            </td>
+            <td>
+                <input type="radio" name="Bed" id="Bed">King
+                <input type="radio" name="Bed" id="Bed">Double Double
+            </td>
+            <tr>
+            <td>
+                <input type="checkbox" name="Bed" id="Bed">Smoking
+            </td>
+        </tr>
+        </tr>
+    </table>
+    </fieldset>
+
+    <fieldset>
+        <legend style="color: blue;">Contact Information</legend>
+        <table>
+        <tr>
+            <td>
+                <label for="">Name:</label>
+            </td>
+            <td>
+                <input type="text" >
+            </td>
+            <td>
+                <span style="color: red;">Name is Required</span>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="">Email:</label>
+            </td>
+            <td>
+                <input type="text" >
+            </td>
+            <td>
+                <span style="color: red;">Emaill address is invalid</span>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="">Phone:</label>
+            </td>
+            <td>
+                <input type="number">
+            </td>
+            <td>
+                <span style="color: rgb(238, 255, 0);">Phone number is invalid</span>
+            </td>
+        </tr>
+    </table>
+    </fieldset><br>
+
+    <a href="table.html"><input type="button" value="Submit Reservation" style="background-color: burlywood;"></a>
+    <input type="reset" value="Clear" style="background-color: burlywood;">
+</form>
+   
+</body>
+</html>

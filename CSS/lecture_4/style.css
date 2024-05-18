@@ -1,0 +1,73 @@
+/* Color */
+.color{
+    color: aqua;  /* color Name */
+    color: #3f8f74; /* Hexadecimal */
+    color: rgb(113, 117, 151); /* rgb value r-Red , g-green , b-Bule*/
+}
+
+/* Background Color */
+.bgcolor{
+    color: blue;
+    background-color: black;
+}
+
+
+/* Border Color */
+.border{
+    background-color: cadetblue;
+    height: 100px;
+    width: 100px;
+}
+
+/* Border Color */
+.border{
+    color: burlywood;
+    border-style: solid;
+    border-width: 2px;
+    border-color: brown;
+    /* border: 2px dotted blue; */
+}
+
+.dot
+{
+    color: burlywood;
+    border-style: dotted;
+    border-width: 2px;
+    border-color: brown;
+    height: 100px;
+    width: 100px;
+}
+
+.double{
+    color: aqua;
+    border-style: double;
+    border-width: 2px;
+    border-color: red;
+    height: 100px;
+    width: 100px;
+}
+
+
+/* Multiple Border */
+.multiple{
+        border-top: 2px solid blueviolet;
+        border-right: 3px dotted yellow;
+        border-bottom: 5px solid green;
+        border-left: 8px solid blue;
+        background-color: aqua;
+        height: 100px;
+        width: 100px;
+}
+
+
+/* CSS Border CSS */
+.radius{
+    border-radius: 10px;
+    border: 3px solid black;
+    height: 100px;
+    width: 100px;
+    background-color: lightcoral;
+}
+
+
+

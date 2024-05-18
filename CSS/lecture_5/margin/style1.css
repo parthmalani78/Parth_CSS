@@ -1,0 +1,38 @@
+div{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+
+}
+
+/*  margin-top */
+.margin{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    margin-top: 20px;
+}
+
+/*  margin-bottm */
+.margin{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    margin-bottom: 50px;
+}
+
+/*  margin-right */
+.margin{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    margin-right: 30px;
+}
+
+/*  margin-left */
+.margin{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    margin-left: 60px;
+}

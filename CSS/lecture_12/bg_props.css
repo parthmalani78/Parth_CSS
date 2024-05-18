@@ -1,0 +1,11 @@
+body{
+    /* background-color: aqua; */
+    background-image: url(Image/img8.jpg);
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    background-size: contain;
+    background-attachment: fixed;
+
+
+}

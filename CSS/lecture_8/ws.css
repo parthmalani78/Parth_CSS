@@ -1,0 +1,13 @@
+.container {
+    background-color: aqua;
+    height: 500px;
+    width:500px;
+    border: 2px solid;
+}
+.box{
+    height: 100px;
+    width: 100PX;
+    /* white-space:normal; */
+    /* white-space:pre; */
+    white-space:nowrap;
+}

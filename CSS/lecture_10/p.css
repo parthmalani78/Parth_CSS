@@ -1,0 +1,44 @@
+.conatainer{
+    display: grid;
+    background-color: black;
+    grid-template-columns: auto auto auto ;
+    grid-template-rows: 100px 100px 100px 100px;
+    gap: 20px;
+    text-align: center;
+}
+
+.box1{
+    background-color: pink;         
+    grid-column: 1 / 4;
+}
+
+.box2{
+    background-color: lightskyblue;
+    grid-row: 2 /4 ;
+   
+}
+
+.box3{
+   
+    grid-column: 2/4;
+    background-color: plum
+}
+
+.box4{
+    background-color: lightgreen;
+   
+}
+
+.box5{
+    background-color: rgb(169, 228, 228);
+    
+}
+
+.box6{
+    background-color: brown;
+    grid-column: 1 / 4;
+}
+
+
+
+

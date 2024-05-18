@@ -1,0 +1,53 @@
+/* @import value */
+@import url(importstyle.css);
+
+
+/* cascade  */
+h1{
+    color: darkgreen;
+}
+
+h1{
+    color: darkgoldenrod;
+}
+
+/* Specificity */
+
+/* #id-Specificity */
+#specificity_id{
+    color: brown;
+}
+
+/* .class specificity */
+.specificity_class{
+    color: darkgreen;
+}
+
+
+/* Inheritance */
+
+/* Parent */
+.parent{
+    color: aqua;
+}
+
+/* child */
+
+h4{
+    color: cadetblue;
+}
+
+/* Inherit means parents style take */
+h4{
+    color: inherit;
+}
+
+/* initial means default browser style take */
+h4{
+    color: initial;
+}
+
+
+
+
+

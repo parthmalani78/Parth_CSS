@@ -1,0 +1,28 @@
+             /* Text-Tranform */
+
+h1{
+    /* text-transform: capitalize; */
+    /* text-transform: uppercase; */
+    /* text-transform: lowercase; */
+}
+
+
+            /* Text-Align */
+
+.h2{
+    /* text-align: start; */
+    /* text-align: end; */
+    text-align: center; 
+    
+}
+
+            /* Text-decoration-line */
+
+.h3{
+
+    /* text-decoration-line: underline; */
+    /* text-decoration-line: overline; */
+    /* text-decoration-line: line-through; */
+    /* text-decoration-color: blue; */
+    /* text-shadow: 10px 10px 5px red; */
+}
