@@ -1,0 +1,23 @@
+/* .clip{
+    width: 60%;
+    height: 500px;
+    background-color: lightskyblue;
+    border: 5px dotted black;
+    margin: 50px auto;
+    padding: 50px; 
+    background-clip: border-box;
+    background-clip: content-box;
+      background-clip: padding-box
+ }  */
+
+
+.listing{
+    margin: auto;
+    height: 300px;
+    width: 500px;
+    background-color: lightcoral;
+    /* list-style-type: circle; */
+    /* list-style-image: url(image/img1.png); */
+
+}
+
