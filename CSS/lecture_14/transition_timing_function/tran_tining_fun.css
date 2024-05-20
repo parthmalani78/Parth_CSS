@@ -1,0 +1,63 @@
+.path{
+    border: 2px solid black;
+    padding: 5px;
+}
+.transition{
+    height: 100px;
+    width: 100px;
+    background-color: lightcoral;
+}
+
+.path2{
+    border: 2px solid black;
+    padding: 5px;
+}
+.transition2{
+    height: 100px;
+    width: 100px;
+    background-color: lightblue;
+}
+
+.path3{
+    border: 2px solid black;
+    padding: 5px;
+}
+.transition3{
+    height: 100px;
+    width: 100px;
+    background-color: lightcoral;
+}
+
+.path4{
+    border: 2px solid black;
+    padding: 5px;
+}
+.transition4{
+    height: 100px;
+    width: 100px;
+    background-color: purple;
+}
+
+.path:hover .transition{
+    transform: translate(500px);
+    transition-timing-function:ease;
+    transition: 5s;
+}
+
+.path2:hover .transition2{
+    transform: translate(500px);
+    transition-timing-function:ease-in;
+    transition: 5s;
+}
+
+.path3:hover .transition3{
+    transform: translate(500px);
+    transition-timing-function:ease-out ;
+    transition: 5s;
+}
+
+.path4:hover .transition4{
+    transform: translate(500px);
+    transition-timing-function:ease-in-out ;
+    transition: 5s;
+}
