@@ -1,0 +1,10 @@
+.image{
+    height: 600px;
+    width: 600px;
+    overflow: hidden;
+}
+
+img:hover{
+    transform: scaley(1.5);
+    transition: 3s;
+}

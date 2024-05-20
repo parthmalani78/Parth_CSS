@@ -1,0 +1,44 @@
+.path{
+    border: 2px solid black;
+    padding: 5px;
+}
+.transform{
+    height: 100px;
+    width: 100px;
+    background-color: lightcoral;
+}
+
+.path2{
+    border: 2px solid black;
+    padding: 5px;
+}
+.transform2{
+    height: 100px;
+    width: 100px;
+    background-color: lightblue;
+}
+
+.path3{
+    border: 2px solid black;
+    padding: 5px;
+}
+.transform3{
+    height: 100px;
+    width: 100px;
+    background-color: lightcoral;
+}
+
+.path:hover .transform{
+    transform: translatex(400px);
+    transition: 4s;
+}
+
+.path2:hover .transform2{
+    transform: translatey(300px);
+    transition: 4s;
+}
+
+.path3:hover .transform3{
+    transform: translate(400px,500px);
+    transition: 5s; 
+}
