@@ -150,8 +150,8 @@
     font-size: 30px;
 }
 .img2{
-    height: 700px;
-    width: 620px;
+    height: 600px;
+    width: 650px;
 }
 .change{
     color: skyblue;
@@ -265,7 +265,7 @@
     align-items: center;
     background-color:color(from color srgb r g b);
 }
-.contain-2{
+.contain4-2{
     width: 30%;
     height: 580px;
     justify-content: center;
@@ -273,7 +273,7 @@
     padding-top: 150px;
 }
 .img3{
-    height: 700px;
+    height: 600px;
     width: 550px;
     margin-top: 50px;
 }
