@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+}
+/* Css Pseudo Class */
+
+/*
+
+    :first-child
+    :first-of-type
+    :last-child
+    :last-of-type
+    :nth-child()
+    :nth-last-child()
+    :nth-last-of-type()
+    :nth-of-type()
+    :only-of-type
+    :only-child
+    :odd(3n)
+    :even(2n)
+    :not()
+    :where
+    :emptys
+
+*/
+
+h1:first-child{
+    background-color: green;
+    color:white;
+}
+
+
+/* :where(.box-1){
+    background-color: red;
+}  */
+
+/* div:empty{
+    height: 200px;
+    width: 200px;
+    background-color: brown;
+}
+ */
