@@ -123,12 +123,12 @@
     border: none;
     background-color: rgb(9, 180, 247);
 }
-.contain17{
+/* .contain17{
     width: 200px;
     height: 500px;
     margin-top: 300px;
     margin-left: 210px;
-}
+} */
 
 .button2:hover{
     color: black;
@@ -261,8 +261,8 @@
     display: flex;
 }
 .contain4-1{
-    width: 30%;
-    height: 100%;
+    width: 40%;
+    height: 90%;
     align-items: center;
     background-color:color(from color srgb r g b);
 }
@@ -330,7 +330,7 @@
     margin-left: -200px;
     text-align: center;
     padding: 20px;
-    margin-right: 100px;
+    margin-left: 100px;
  
 }
 
@@ -339,8 +339,8 @@
     width: 300px;
     height: 100%;
     text-align: center;
-    padding: 20px;
-    margin-right: 100px;
+    padding: 30px;
+    margin-left: 100px;
 }
 
 .contain6-3{
@@ -349,7 +349,9 @@
     height: 100%;
     text-align: center;
     padding: 20px;
-    
+    margin-left: 100px;
+
+
     
 }
 .img4{
@@ -432,7 +434,8 @@
     overflow-wrap: break-word;
     margin-top: 30px;
 }
-.h1{
+.h12{
+    color: black;
     font-size: 70px;
     font-weight: 600;
     margin: 15px 0 25px;
