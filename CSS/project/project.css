@@ -6,7 +6,7 @@
 .content{
     display: grid;
     width: 100%;
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
     /* gap: 10px; */
 }
 
@@ -508,7 +508,7 @@ con7{
     width: 400px;
     background-color: color(from color srgb r g b);
     padding-top: 150px;
-    margin-left: -210px;
+    /* margin-left: -10px; */
     padding-left: 50px
 }
 .contain9-2{
@@ -656,7 +656,7 @@ con7{
     width: 450px;
     background-color: rgb(243, 238, 229);
     border-radius: 45px 45px 0px 0px;
-    margin-left: -170px;
+    /* margin-left: -170px; */
 }
 .contain11-2{
     height: 100%;
@@ -731,10 +731,10 @@ con7{
     display: flex;
     justify-content: center;
     background-color: rgb(24, 174, 233);
-    margin-left: -100px;
+    /* margin-left: -100px; */
 }
 .img16{
-    width: 150px;
+    width: 10   0px;
     height: 50px;
     margin: 60px;
     margin-top: 100px;
