@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.filter img{
+        /* filter: blur(10px); */
+        filter: none;
+        /* filter: brightness(0%); */
+        /* filter: brightness(200%); */
+        filter: drop-shadow(10px 20px ) ;
+
+} 
