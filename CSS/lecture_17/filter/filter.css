@@ -10,6 +10,9 @@
         filter: none;
         /* filter: brightness(0%); */
         /* filter: brightness(200%); */
-        filter: drop-shadow(10px 20px ) ;
+        /* filter: drop-shadow(10px 20px 5px red ) ; */
+        /* filter: grayscale(0%); */
+        /* filter: grayscale(100%); */
+
 
 } 
