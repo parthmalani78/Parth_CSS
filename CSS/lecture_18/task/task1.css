@@ -1,0 +1,118 @@
+.container{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.contain1{
+    height: 50px;
+    width: 50px;
+    background-color: orange;
+    border-radius: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border: 2px solid black;
+    font-size: 20px;
+    font-weight: 100;
+}
+.contain2{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border: 2px solid black;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.contain3{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border: 2px solid black;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+
+.contain4{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    justify-content: center;
+    background-color: blue;
+    align-items: center;
+    display: flex;
+    border: 2px solid black;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.contain5{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border: 2px solid black;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.contain6{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border: 2px solid black;
+    font-size: 20px;
+    font-weight: 100;
+}
+.contain7{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border: 2px solid black;
+    font-size: 20px;
+    font-weight: 100;
+}
+.contain8{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border: 2px solid black;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.contain9{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border: 2px solid black;
+    background-color: orange;
+    font-size: 20px;
+    font-weight: 100;
+}
+

@@ -785,13 +785,15 @@ con7{
 input::placeholder{
     font-size: 20px;
     padding:   20px;
+    
 }
 .i14p{
     width: 280px;
     height: 175px;
-    margin-top: 130px;
+    margin-top: 170px;
     margin-left: 10px;
     border-radius: 10px;
+    /* margin-bottom: 100px ; */
 }
 .contain14-1-1{
     width: 100%;

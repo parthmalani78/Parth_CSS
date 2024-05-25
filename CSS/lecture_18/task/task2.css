@@ -1,0 +1,117 @@
+.container{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    border: 4px solid black;
+    background-color: aquamarine;
+    
+}
+.con{
+    display:  flex;
+    background-color: white;
+    border-radius: 20px;
+    gap: 20px;
+}
+
+.contain1{
+   
+   
+    
+    justify-content: center;
+    align-items: center;
+    display: flex;
+   
+    font-size: 50px;
+    font-weight: 100;
+}
+.contain2{
+    
+    justify-content: center;
+    align-items: center;
+    display: flex;
+   
+    font-size: 50px;
+    font-weight: 100;
+}
+
+.contain3{
+    
+    
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+    font-size: 50px;
+    font-weight: 100;
+}
+
+
+.contain4{
+   
+    
+    justify-content: center;
+    
+    align-items: center;
+    display: flex;
+   
+    font-size: 50px;
+    font-weight: 100;
+}
+
+.contain5{
+    height: 80px;
+    width: 80px;
+    border-radius: 100%;
+    background-color: aquamarine;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+   
+    font-size: 50px;
+    font-weight: 100;
+}
+
+.contain6{
+    
+    
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+    font-size: 50px;
+    font-weight: 100;
+}
+.contain7{
+    
+    
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+    font-size: 50px;
+    font-weight: 100;
+}
+.contain8{
+    
+    
+    justify-content: center;
+    align-items: center;
+    display: flex;
+   
+    font-size: 50px;
+    font-weight: 100;
+}
+
+.contain9{
+    
+   
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+    font-size: 50px;
+    font-weight: 100;
+}
